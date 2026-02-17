@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ¡Hola! Soy Daniel Alejandro 🇨🇴
+# ⚡ ¡Hola! Soy DuarteXV 🇨🇴
 **`Node.js Developer | 16 Años | Bot Maker`**
 
 ---
