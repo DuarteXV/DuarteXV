@@ -54,7 +54,7 @@
 ---
 
 ## 📞 Contacto Directo
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Duarte_XV-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573135180876?text=Hola%20Daniel,%20vi%20tu%20perfil%20en%20GitHub...)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-DuarteXV-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573135180876?text=Hola%20Daniel,%20vi%20tu%20perfil%20en%20GitHub...)
 
 ---
 
