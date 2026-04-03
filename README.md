@@ -1,63 +1,105 @@
 <div align="center">
 
-# ⚡ ¡Hola! Soy DuarteXV 🇨🇴
-**`Node.js Developer | 16 Años | Bot Maker`**
+```
+██████╗ ██╗   ██╗ █████╗ ██████╗ ████████╗███████╗██╗  ██╗██╗   ██╗
+██╔══██╗██║   ██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝╚██╗██╔╝██║   ██║
+██║  ██║██║   ██║███████║██████╔╝   ██║   █████╗   ╚███╔╝ ██║   ██║
+██║  ██║██║   ██║██╔══██║██╔══██╗   ██║   ██╔══╝   ██╔██╗ ╚██╗ ██╔╝
+██████╔╝╚██████╔╝██║  ██║██║  ██║   ██║   ███████╗██╔╝ ██╗ ╚████╔╝ 
+╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝  ╚═══╝  
+```
+
+### Daniel Alejandro · Colombia 🇨🇴
+**Desarrollador independiente · 16 años · Construyendo cosas que importan**
+
+[![WhatsApp Bots](https://img.shields.io/badge/WhatsApp_Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/DuarteXV)
+[![API Platform](https://img.shields.io/badge/Api_Causas-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)](https://rest.apicausas.xyz)
+[![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://github.com/DuarteXV)
+
+</div>
 
 ---
 
-<table border="0">
-  <tr>
-    <td>
-      <video src="https://raw.githubusercontent.com/danielalejandrobasado-glitch/Yotsuba-MD-Premium/main/uploads/c8e88e93039fbfde.mp4" width="350" autoplay loop muted playsinline></video>
-    </td>
-    <td>
-      <video src="https://raw.githubusercontent.com/danielalejandrobasado-glitch/Yotsuba-MD-Premium/main/uploads/747f7feb4cf983c9.mp4" width="350" autoplay loop muted playsinline></video>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <video src="https://raw.githubusercontent.com/danielalejandrobasado-glitch/Yotsuba-MD-Premium/main/uploads/3682bef69c79109f.mp4" width="350" autoplay loop muted playsinline></video>
-    </td>
-    <td>
-      <video src="https://raw.githubusercontent.com/danielalejandrobasado-glitch/Yotsuba-MD-Premium/main/uploads/7130d4cb22564198.mp4" width="350" autoplay loop muted playsinline></video>
-    </td>
-  </tr>
-</table>
+## ⚡ Sobre mí
+
+```js
+const duarteXV = {
+  nombre:    "Daniel Alejandro",
+  ubicación: "Colombia 🇨🇴",
+  edad:      16,
+  rol:       "Desarrollador independiente",
+  enfoque:   ["Bots de WhatsApp", "APIs REST", "Ciberseguridad (white hat)"],
+  stack:     ["Node.js", "Express", "Baileys", "MariaDB", "Sequelize", "EJS"],
+  proyecto:  "Api Causas — rest.apicausas.xyz",
+  meta:      "Independencia financiera a través del software 🚀"
+}
+```
 
 ---
 
-## 🔥 Player Grind & Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielalejandrobasado-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## 🛠️ Qué construyo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielalejandrobasado-glitch&show_icons=true&theme=tokyonight&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielalejandrobasado-glitch&layout=compact&theme=tokyonight" height="170" />
-</p>
+### 🤖 Bots de WhatsApp
+Ecosistema multi-bot construido sobre **Baileys** con arquitectura de plugins personalizada, sistema de subbots con pairing codes y UIs temáticas de anime. Con usuarios reales activos todos los días.
 
----
+- **Zero Two Bot** — Suite completa: descargadores, stickers, herramientas de grupo, IA
+- **Monkey-D-Luffy Bot MD** — Temática One Piece, basado en Baileys
+- **Maria Kujou Bot** — Plugins propios, despliegue independiente
 
-## 🔌 Central Intelligence Unit
-**🌐 API Official:** [rest.apicausas.xyz](https://rest.apicausas.xyz)  
-**🛠️ Status:** ![Active](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
+### 🌐 Api Causas
+Plataforma REST API en producción con base de usuarios activa.
 
----
-
-## 🐍 The Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielalejandrobasado-glitch/danielalejandrobasado-glitch/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielalejandrobasado-glitch/danielalejandrobasado-glitch/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danielalejandrobasado-glitch/danielalejandrobasado-glitch/output/github-contribution-grid-snake.svg">
-</picture>
+- Descargadores de Facebook / YouTube / SoundCloud / Mediafire
+- Chat con IA usando Groq con rotación de modelos
+- Generador de stickers brat (canvas, devuelve URL)
+- OCR, stalk de Instagram, modulador de voz con FFmpeg
+- Auth JWT · MariaDB/Sequelize · Cargador de rutas con hot-reload
+- Sistema de juegos y monedas (Ajedrez, Cartas, Parqués)
 
 ---
 
-## 📞 Contacto Directo
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-DuarteXV-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573135180876?text=Hola%20Daniel,%20vi%20tu%20perfil%20en%20GitHub...)
+## 🧰 Stack
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
+
+</div>
 
 ---
 
-> *"No estoy aquí para jugar al fútbol con amigos, estoy aquí para convertirme en el mejor del mundo."* – **Yoichi Isagi** ⚽🧩
+## 📊 Estadísticas
+
+<div align="center">
+
+![Estadísticas de DuarteXV](https://github-readme-stats.vercel.app/api?username=DuarteXV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&locale=es)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteXV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&locale=es)
+
+</div>
+
+---
+
+## 🎯 Actualmente
+
+- 📚 Preparándome para el **ICFES Saber 11°**
+- 🔒 Profundizando en **ciberseguridad white hat**
+- 💰 Monetizando **Api Causas** con anuncios y moneda virtual
+- 🤖 Expandiendo el ecosistema de **bots de WhatsApp**
+
+---
+
+<div align="center">
+
+*"Construyendo desde cero, un plugin a la vez."*
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=DuarteXV&color=FF6B35&style=flat-square)
 
 </div>
