@@ -22,18 +22,13 @@
 
 ## ⚡ Sobre mí
 
-```js
-const duarteXV = {
-  nombre:    "Daniel Alejandro",
-  ubicación: "Colombia 🇨🇴",
-  edad:      16,
-  rol:       "Desarrollador independiente",
-  enfoque:   ["Bots de WhatsApp", "APIs REST", "Ciberseguridad (white hat)"],
-  stack:     ["Node.js", "Express", "Baileys", "MariaDB", "Sequelize", "EJS"],
-  proyecto:  "Api Causas — rest.apicausas.xyz",
-  meta:      "Independencia financiera a través del software 🚀"
-}
-```
+- 🌍 **Ubicación:** Colombia
+- 🎂 **Edad:** 16 años
+- 💼 **Rol:** Desarrollador independiente
+- 🎯 **Enfoque:** Bots de WhatsApp · APIs REST · Ciberseguridad (white hat)
+- 🛠️ **Stack:** Node.js · Express · Baileys · MariaDB · Sequelize · EJS
+- 🌐 **Proyecto principal:** [Api Causas](https://rest.apicausas.xyz)
+- 🚀 **Meta:** Independencia financiera a través del software
 
 ---
 
