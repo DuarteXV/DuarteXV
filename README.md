@@ -1,16 +1,6 @@
 <div align="center">
 
-```
-██████╗ ██╗   ██╗ █████╗ ██████╗ ████████╗███████╗██╗  ██╗██╗   ██╗
-██╔══██╗██║   ██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝╚██╗██╔╝██║   ██║
-██║  ██║██║   ██║███████║██████╔╝   ██║   █████╗   ╚███╔╝ ██║   ██║
-██║  ██║██║   ██║██╔══██║██╔══██╗   ██║   ██╔══╝   ██╔██╗ ╚██╗ ██╔╝
-██████╔╝╚██████╔╝██║  ██║██║  ██║   ██║   ███████╗██╔╝ ██╗ ╚████╔╝ 
-╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝  ╚═══╝  
-```
-
-### Daniel Alejandro · Colombia 🇨🇴
-**Desarrollador independiente · 16 años · Construyendo cosas que importan**
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DuarteXV&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Daniel%20Alejandro%20·%20Colombia%20🇨🇴&descAlignY=60&descSize=18)
 
 [![WhatsApp Bots](https://img.shields.io/badge/WhatsApp_Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/DuarteXV)
 [![API Platform](https://img.shields.io/badge/Api_Causas-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)](https://rest.apicausas.xyz)
@@ -82,6 +72,20 @@ Plataforma REST API en producción con base de usuarios activa.
 
 ---
 
+## 🐍 Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuarteXV/DuarteXV/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuarteXV/DuarteXV/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/DuarteXV/DuarteXV/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ## 🎯 Actualmente
 
 - 📚 Preparándome para el **ICFES Saber 11°**
@@ -93,8 +97,10 @@ Plataforma REST API en producción con base de usuarios activa.
 
 <div align="center">
 
-*"Construyendo desde cero, un plugin a la vez."*
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=DuarteXV&color=FF6B35&style=flat-square)
+
+*"Construyendo desde cero, un plugin a la vez."*
 
 </div>
