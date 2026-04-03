@@ -101,6 +101,6 @@ Plataforma REST API en producción con base de usuarios activa.
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=DuarteXV&color=FF6B35&style=flat-square)
 
-*"Construyendo desde cero, un plugin a la vez."*
+*"Nunca fui el usuario root."*
 
 </div>
