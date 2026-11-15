@@ -13,7 +13,7 @@
 ## ⚡ Sobre mí
 
 - 🌍 **Ubicación:** Colombia
-- 🎂 **Edad:** 16 años
+- 🎂 **Edad:** 17 años
 - 💼 **Rol:** Desarrollador independiente
 - 🎯 **Enfoque:** Bots de WhatsApp · APIs REST · Ciberseguridad (white hat)
 - 🛠️ **Stack:** Node.js · Express · Baileys · MariaDB · Sequelize · EJS
